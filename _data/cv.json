@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Links",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at TransPerfect. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Sydney",
+      "countryCode": "AUS",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com.au/citations?user=15v1b9kAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
@@ -33,7 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Queensland University of Technology",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
