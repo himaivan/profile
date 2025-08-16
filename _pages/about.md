@@ -11,5 +11,4 @@ redirect_from:
 
 <p style="font-family:'Courier New'">I am a research scientist at <a href="https://www.transperfect.com/">Transperfect</a></p>
 <p style="font-family:'Courier New'">I am pushing the boundaries of speech technology research.</p>
-
-<pstyle="font-family:'Courier New'">My research interest includes text-to-speech, voice conversion, large speech language model, and generative AI.</p>
+<p style="font-family:'Courier New'">My research interest includes text-to-speech, voice conversion, large speech language model, and generative AI.</p>
