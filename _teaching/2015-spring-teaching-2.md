@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Queensland University of Technology"
-date: 2018
+date: 2018-01-01
 location: "Brisbane, Australia"
 ---
 
