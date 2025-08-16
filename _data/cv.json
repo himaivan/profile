@@ -3,8 +3,8 @@
     "name": "Links",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at TransPerfect. Short biography for the left-hand sidebar",
+    "website": "https://himaivan.github.io",
+    "summary": "Speech Research Scientist | Transperfect",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,12 +21,12 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-3848-244X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "himaivan",
+        "url": "https://github.com/himaivan"
       }
     ]
   },
@@ -34,28 +34,28 @@
   "education": [
     {
       "institution": "Queensland University of Technology",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2010",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Queensland University of Technology",
+      "area": "Master of Project Management",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Queensland University of Technology",
+      "area": "B.Eng in Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2004",
       "gpa": null,
       "courses": []
     }
