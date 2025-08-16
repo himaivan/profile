@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Ivan Himawan is a research scientist at TransPerfect. Previously, he worked for ObEN Inc., to develop and commercialize voice conversion and text-to-speech technology.
+<p>Hello, I'm Ivan Himawan.</p>
 
-His research interest includes speech synthesis technology, large speech language model, and generative AI.
+<p style="font-family:'Courier New'">I am a research scientist at <a href="https://www.transperfect.com/">Transperfect</a></p>
+<p>I am pushing the boundaries of speech technology research.</p>
+
+<p>My research interest includes text-to-speech, voice conversion, large speech language model, and generative AI.</p>

@@ -17,30 +17,15 @@ Education
 
 Work experience
 ======
+* 2019-2021: Research Scientist
+  * ObeN, Pasadena, USA
+
 * 2016-2018: Research Fellow 
   * Queensland University of Technology
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2015: Postdoctoral Researcher
+  * IDIAP, Switzerland
   
-Skills
-======
-* 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
