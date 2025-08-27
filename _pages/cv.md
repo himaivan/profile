@@ -9,14 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Master of Project Management, Queensland University of Technology, 2024.
-* PhD Thesis title: "Speech Recognition using Ad-hoc Microphone Arrays", Queensland University of Technology, 2010.
-* B.E. in Electrical & Computer Engineering, Queensland University of Technology, 2004.
-
 Work experience
 ======
+* 2021-now: Research Scientist
+  * Transperfect
+
 * 2019-2021: Research Scientist
   * ObeN, Pasadena, USA
 
