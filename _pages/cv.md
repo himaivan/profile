@@ -17,21 +17,3 @@ Work experience
 * 2019-2021: Research Scientist
   * ObeN, Pasadena, USA
 
-* 2016-2018: Research Fellow 
-  * Queensland University of Technology
-
-* 2014-2015: Postdoctoral Researcher
-  * IDIAP, Switzerland
-  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
